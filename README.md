@@ -1,4 +1,4 @@
-# Tensorflow-GAN
+# GAN-Tensorflow
 This model includes two generative and discriminator structures, the way it works is as follows:
 We give a noise vector with size 100 as input to the model Then, the generator part creates a fake 
 image by deconvolution operation, and then there is the discriminator model, which has the task 
